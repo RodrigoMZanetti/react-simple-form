@@ -53,7 +53,7 @@ react-simple-form/
 - Run the development server
   npm run dev
 - Open in your browser
-  http://localhost:5173
+  http://localhost:3000
 
 ## Status
 
