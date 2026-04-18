@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-👉
+👉 https://rodrigomzanetti.github.io/react-simple-form/
 
 ## Preview
 
@@ -13,20 +13,25 @@
 - React Simple Form App is a lightweight React application focused on handling user input using controlled components.
 - The project demonstrates how to manage form state using useState and interact with DOM elements using useRef.
 - It highlights best practices for handling form events, resetting inputs, and improving user experience with focus control.
+
   ## Features
-  - Controlled form inputs using React state
-  - Real-time state updates with onChange
-  - Input focus management using useRef
-  - Form submission handling with preventDefault
-  - Reset functionality to clear form fields
-  - Clean and responsive UI
-  - Component-based structure
+
+- Controlled form inputs using React state
+- Real-time state updates with onChange
+- Input focus management using useRef
+- Form submission handling with preventDefault
+- Reset functionality to clear form fields
+- Clean and responsive UI
+- Component-based structure
+
   ## Technologies Used
-  - React: UI development and component logic
-  - JavaScript (ES6+): event handling and state management
-  - HTML5: semantic structure
-  - CSS3: styling and layout
-  - Vite: fast development and build tool
+
+- React: UI development and component logic
+- JavaScript (ES6+): event handling and state management
+- HTML5: semantic structure
+- CSS3: styling and layout
+- Vite: fast development and build tool
+
   ## Project Structure
 
 react-simple-form/
